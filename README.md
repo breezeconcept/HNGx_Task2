@@ -35,7 +35,7 @@
 <h2 id="setup">Setup</h2>
 <ol>
     <li><strong>Clone this repository:</strong></li>
-    <pre><code>git clone <repository_url></code></pre>
+    <pre><code>git clone https://github.com/breezeconcept/HNGx_Task2.git</code></pre>
     <li><strong>Create a virtual environment (optional but recommended):</strong></li>
     <pre><code>python -m venv venv</code></pre>
     <li><strong>Activate the virtual environment (if created):</strong></li>
